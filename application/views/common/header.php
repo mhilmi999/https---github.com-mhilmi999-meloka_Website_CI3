@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
     <!-- Boostrap 5 Icons -->
 
-    <link href="<?= base_url(); ?>assets/css/header.css" rel="stylesheet">
+    <link href="<?= base_url(); ?>assets/css/base.css" rel="stylesheet">
     <link href="<?= base_url(); ?>assets/css/slicknav.min.css" rel="stylesheet">
 
 

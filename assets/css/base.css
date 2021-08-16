@@ -19,6 +19,13 @@ body {
 	background-color: #DCCCAB;
 }
 
+.slide1About {
+	padding: auto;
+	margin: auto;
+	background-image: url("../img/imajiLoka.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
 
 
 .inner_main_menu {
