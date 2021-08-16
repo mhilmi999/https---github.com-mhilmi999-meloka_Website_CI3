@@ -7,7 +7,7 @@
             <li><a href="<?= base_url() . 'index.php/Home'; ?>" style="color: white;">Home</a></li>
             <li><a href="<?= base_url() . 'index.php/Home/about'; ?>" style="color: white;">About</a></li>
             <li><a href="<?= base_url() . 'index.php/Home/events'; ?>" style="color: white;">Events</a></li>
-            <li><a href="" style="color: white;">Blog</a></li>
+            <li><a href="<?= base_url() . 'index.php/Home/blog'; ?>" style="color: white;">Blog</a></li>
             <li><a href="" style="color: white;">Find Us</a></li>
             <li><a href="" style="color: white;"> Contact</a></li>
         </ul>
@@ -16,13 +16,13 @@
     <!-- Slide Events -->
     <div class="contianer-fluid vertical-center pt-5 ">
         <div class="container pt-5">
-            
-        <!-- Event 1 -->
+
+            <!-- Event 1 -->
             <div class="row justify-content-center ">
                 <div class="col-8">
                     <div class="row justify-content-center pb-5">
-                        <div class="card mb-8 rounded-3" style="max-width: 540px;">
-                            <div class="row justify-content-center px-3">
+                        <div class="card mb-8 bg-transparent border-0" style="max-width: 540px; ">
+                            <div class="row justify-content-center px-3 " style="background-color: #466C74; border-radius: 50px 15px 15px 50px;">
                                 <div class="col-md-4 mt-3 mb-3 row align-items-center rounded-3 text-white" style="background-color: #466C74;">
                                     <h1 class="text-center">5</h1>
                                     <h3 class="text-center">Agustus</h3>
@@ -51,8 +51,8 @@
             <div class="row justify-content-center ">
                 <div class="col-8">
                     <div class="row justify-content-center pb-5">
-                        <div class="card mb-8 rounded-3" style="max-width: 540px;">
-                            <div class="row justify-content-center px-3">
+                        <div class="card mb-8 bg-transparent border-0" style="max-width: 540px; ">
+                            <div class="row justify-content-center px-3 " style="background-color: #466C74; border-radius: 50px 15px 15px 50px;">
                                 <div class="col-md-4 mt-3 mb-3 row align-items-center rounded-3 text-white" style="background-color: #466C74;">
                                     <h1 class="text-center">5</h1>
                                     <h3 class="text-center">Agustus</h3>
@@ -79,6 +79,6 @@
 
         </div>
     </div>
-        <!-- Slide Events -->
-        
+    <!-- Slide Events -->
+
 </div>

@@ -7,7 +7,7 @@
       <li><a href="<?= base_url().'index.php/Home';?>" style="color: white;">Home</a></li>
       <li><a href="<?= base_url().'index.php/Home/about';?>" style="color: white;">About</a></li>
       <li><a href="<?= base_url().'index.php/Home/events';?>" style="color: white;">Events</a></li>
-      <li><a href="" style="color: white;">Blog</a></li>
+      <li><a href="<?= base_url() .'index.php/Home/blog';?>" style="color: white;">Blog</a></li>
       <li><a href="" style="color: white;">Find Us</a></li>
       <li><a href="" style="color: white;"> Contact</a></li>
     </ul>
