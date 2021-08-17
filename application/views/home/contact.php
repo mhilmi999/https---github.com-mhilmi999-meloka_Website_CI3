@@ -1,4 +1,4 @@
-<div id="main_menu" class="slide1About pb-3">
+<div id="main_menu" class="slide1Contact pb-5">
     <div class="logo_area">
         <a href=""><img src="<?= base_url(); ?>assets/img/logo.png" alt=""></a>
     </div>
