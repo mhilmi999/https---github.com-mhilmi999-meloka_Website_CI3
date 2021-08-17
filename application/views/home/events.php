@@ -9,7 +9,7 @@
             <li><a href="<?= base_url() . 'index.php/Home/events'; ?>" style="color: white;">Events</a></li>
             <li><a href="<?= base_url() . 'index.php/Home/blog'; ?>" style="color: white;">Blog</a></li>
             <li><a href="" style="color: white;">Find Us</a></li>
-            <li><a href="" style="color: white;"> Contact</a></li>
+            <li><a href="<?= base_url() . 'index.php/Home/contact'; ?>" style="color: white;"> Contact</a></li>
         </ul>
     </div>
 

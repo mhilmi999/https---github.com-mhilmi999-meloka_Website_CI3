@@ -32,4 +32,10 @@ class Home extends CI_Controller
 		$this->load->view('home/blog');
 		$this->load->view('common/footer');
 	}
+	
+	public function contact(){
+		$this->load->view('common/header');
+		$this->load->view('home/contact');
+		$this->load->view('common/footer');
+	}
 }
